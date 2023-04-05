@@ -20,6 +20,7 @@ h1 {
 
 /* Loader */
 .loader {
+  display: flex;
   position: fixed;
   top: 0;
   bottom: 0;
